@@ -9,6 +9,9 @@ Um breve resumo sobre mim abaixo:
 - Estudando Análise e Desenvolvimento de Sistemas :technologist:
 - Conhecimentos em Desenvolvimento Web: HTM, CSS, Bootstrap :desktop_computer:
 - Linguagens de Programação: JavaScript e C# (plataforma .Net 5) :man_technologist:
-
+- Conhecimento em Hardware e Software :cd:
+- Conhecimento em Redes :electric_plug:
+- Conhecimento em Banco de Dados (SQL) :card_index_dividers:
+- Atualmente aprendendo em framework front end: React JS :books:
 
 Você pode me encontrar no LinkenDin pelo link: linkedin.com/in/paulo-henrique-07b99517b
