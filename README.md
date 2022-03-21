@@ -19,6 +19,9 @@ Se você quiser sobre minhas competências, abaixo mostra os repositórios com p
 - Projetos em JavaScript
 - https://github.com/PauloHPB97/JavaScript-Projetos
 - Projetos em React JS
-- 
+- https://github.com/PauloHPB97/ReactJS-Projeto-01
+- https://github.com/PauloHPB97/ReactJS-Projeto-02
+- https://github.com/PauloHPB97/ReactJS-Projeto-03
+- https://github.com/PauloHPB97/ReactJS-Projeto-04
 
 Você pode me encontrar no LinkenDin pelo link: linkedin.com/in/paulo-henrique-07b99517b
