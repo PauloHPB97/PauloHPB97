@@ -14,4 +14,11 @@ Um breve resumo sobre mim abaixo:
 - Conhecimento em Banco de Dados (SQL) :card_index_dividers:
 - Atualmente aprendendo em framework front end: React JS :books:
 
+Se você quiser sobre minhas competências, abaixo mostra os repositórios com projetos que eu já realizei:
+
+- Projetos em JavaScript
+- https://github.com/PauloHPB97/JavaScript-Projetos
+- Projetos em React JS
+- 
+
 Você pode me encontrar no LinkenDin pelo link: linkedin.com/in/paulo-henrique-07b99517b
