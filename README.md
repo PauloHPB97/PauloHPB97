@@ -1,6 +1,6 @@
 # Paulo Henrique :construction_worker_man:
 
-## Oi, eu sou @PauloHPB97, meu nome é Paulo Henrique, tenho 24 anos, sou Brasileiro e formado em Engenharia Civil mas estou procurando aprender tudo sobre programação para trabalhar com programação. Eu estou interessado em ser um Programador / Desenvolvedor fron end. 
+## Oi, eu sou @PauloHPB97, tenho 24 anos, apaixonado por tecnologia, sou Brasileiro (com muito orgulho) e formado em Engenharia Civil mas estou procurando aprender tudo sobre a área da tecnologia. Eu estou atualmente interessado em ser um Programador / Desenvolvedor fron end / Desenvolvedor Web. 
 
 
 
